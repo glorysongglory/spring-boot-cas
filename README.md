@@ -20,3 +20,8 @@ CAS之5.2x版本之REST验证ticket
 
 
 [cas-server-rest:CAS之5.2x版本之REST验证ticket](https://github.com/louisliaoxh1989/spring-boot-cas/tree/master/cas-server-rest)
+
+
+
+## 参考
+[java生成证书](https://blog.csdn.net/yelllowcong/article/details/78805420)
